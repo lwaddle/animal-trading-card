@@ -1,1 +1,3 @@
-/* add your CSS here */
+ul.plain {
+    list-style-type: none;
+}
